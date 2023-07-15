@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Session Manager",
+        "description": "This extension adds session options like reboot, shutdown, logout",
+        "repo": "https://github.com/lighttigerXIV/simple-kl-session-manager-extension",
+        "dev": "https://github.com/lighttigerXIV"
+    },
+    {
+        "name": "Bookmarks",
+        "description": "This extension adds an option to open your saved bookmarks",
+        "repo": "https://github.com/lighttigerXIV/simple-kl-bookmarks-extension",
+        "dev": "https://github.com/lighttigerXIV"
+    }
+]
