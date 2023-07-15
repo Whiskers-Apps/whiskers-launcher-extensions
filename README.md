@@ -9,4 +9,4 @@ This repo contains all extensions for [Simple Keyboard Launcher](https://github.
 
 # TO-DO
 - [ ] Guide
-- [ ] Extensions List 
+- [x] Extensions List 
