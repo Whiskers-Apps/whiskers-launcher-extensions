@@ -1,5 +1,11 @@
-# simple-kl-extensions-hub
-This repo contains the guide on how to make a extensions and the available extensions
+# Extensions Hub
+This repo contains all extensions for [Simple Keyboard Launcher](https://github.com/lighttigerXIV/simple-keyboard-launcher)
+
+## Official Extensions
+- [Session Manager](https://github.com/lighttigerXIV/simple-kl-session-manager-extension)
+- [Bookmarks](https://github.com/lighttigerXIV/simple-kl-bookmarks-extension)
+## Third Party Extensions
+> No extensions for now
 
 # TO-DO
 - [ ] Guide
