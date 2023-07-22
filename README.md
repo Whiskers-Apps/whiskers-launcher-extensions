@@ -4,7 +4,7 @@ This repo contains all extensions for [Simple Keyboard Launcher](https://github.
 ## Official Extensions
 - [Session Manager](https://github.com/lighttigerXIV/simple-kl-session-manager-extension)
 - [Bookmarks](https://github.com/lighttigerXIV/simple-kl-bookmarks-extension)
-## Third Party Extensions
+## Community Extensions
 > No extensions for now
 
 # TO-DO
