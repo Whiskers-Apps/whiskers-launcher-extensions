@@ -1,12 +1,7 @@
-# Extensions Hub
+# Extensions
 This repo contains all extensions for [Simple Keyboard Launcher](https://github.com/lighttigerXIV/simple-keyboard-launcher)
 
-## Official Extensions
+## Extensions
 - [Session Manager](https://github.com/lighttigerXIV/simple-kl-session-manager-extension)
 - [Bookmarks](https://github.com/lighttigerXIV/simple-kl-bookmarks-extension)
-## Community Extensions
-> No extensions for now
-
-# TO-DO
-- [ ] Guide
-- [x] Extensions List 
+- [Terminal Runner](https://github.com/lighttigerXIV/simple-kl-terminal-runner-extension)
