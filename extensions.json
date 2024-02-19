@@ -4,7 +4,7 @@
         "name": "Session Manager",
         "description": "This extension adds options to shutdown, reboot, suspend, hibernate and logout",
         "repo": "https://github.com/lighttigerXIV/whiskers-launcher-session-manager-extension",
-        "preview": "https://private-user-images.githubusercontent.com/35658492/271843932-774a28eb-b6ea-4934-be1e-fbdedeab0e98.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgzNTU1NTEsIm5iZiI6MTcwODM1NTI1MSwicGF0aCI6Ii8zNTY1ODQ5Mi8yNzE4NDM5MzItNzc0YTI4ZWItYjZlYS00OTM0LWJlMWUtZmJkZWRlYWIwZTk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE5VDE1MDczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2ZWU3YzRkYjI4MjQ3ZDdmY2Q5MTkyYzFkNTAzNWJjOGQyN2JhYzQyMGQzMWJhM2VjOTU0ZWRiNDcxNjY3NGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RgHgJGuwHo1wG-hFv1dtl7EVEYFsXZ_RUxOdmejp5Xk",
+        "preview": "",
         "os":["*"]
     },
     {
@@ -12,7 +12,7 @@
         "name": "Bookmarks",
         "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
         "repo": "https://github.com/lighttigerXIV/whiskers-launcher-bookmarks-extension",
-        "preview": "",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-bookmarks-extension/master/preview.webp",
         "os":["*"]
     },
     {
