@@ -1,0 +1,23 @@
+[
+    {
+        "id": "lighttigerxiv/session-manager",
+        "name": "Session Manager",
+        "description": "This extension adds options to shutdown, reboot, suspend, hibernate and logout",
+        "repo": "https://github.com/lighttigerXIV/whiskers-launcher-session-manager-extension",
+        "os":["*"]
+    },
+    {
+        "id": "lighttigerxiv/bookmarks",
+        "name": "Bookmarks",
+        "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
+        "repo": "https://github.com/lighttigerXIV/whiskers-launcher-bookmarks-extension",
+        "os":["*"]
+    },
+    {
+        "id": "lighttigerxiv/runner",
+        "name": "Runner",
+        "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
+        "repo": "https://github.com/lighttigerXIV/whiskers-launcher-runner-extension",
+        "os":["linux"]
+    }
+]
