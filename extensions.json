@@ -4,7 +4,7 @@
         "name": "Session Manager",
         "description": "This extension adds options to shutdown, reboot, suspend, hibernate and logout",
         "repo": "https://github.com/lighttigerXIV/whiskers-launcher-session-manager-extension",
-        "preview": "",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-session-manager-extension/master/preview.webp",
         "os":["*"]
     },
     {
