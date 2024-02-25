@@ -18,9 +18,9 @@
     {
         "id": "lighttigerxiv/runner",
         "name": "Runner",
-        "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
+        "description": "An extension to run commands in a terminal",
         "repo": "https://github.com/lighttigerXIV/whiskers-launcher-runner-extension",
-        "preview": "",
+        "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-runner-extension/master/preview.webp",
         "os":["linux"]
     }
 ]
