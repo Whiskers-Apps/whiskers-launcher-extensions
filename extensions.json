@@ -4,39 +4,27 @@
     "name": "Emojis",
     "description": "An extension for whiskers launcher to get emojis ",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-emoji-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-emoji-extension/master/preview.webp",
-    "os": ["*"]
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-emoji-extension/master/preview.webp"
   },
   {
     "id": "lighttigerxiv/session-manager",
     "name": "Session Manager",
     "description": "This extension adds options to shutdown, reboot, suspend, hibernate and logout",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-session-manager-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-session-manager-extension/master/preview.webp",
-    "os": ["*"]
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-session-manager-extension/master/preview.webp"
   },
   {
     "id": "lighttigerxiv/bookmarks",
     "name": "Bookmarks",
     "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-bookmarks-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-bookmarks-extension/master/preview.webp",
-    "os": ["*"]
-  },
-  {
-    "id": "lighttigerxiv/runner",
-    "name": "Runner",
-    "description": "An extension to run commands in a terminal",
-    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-runner-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-runner-extension/master/preview.webp",
-    "os": ["linux"]
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-bookmarks-extension/master/preview.webp"
   },
   {
     "id": "lighttigerxiv/snippets",
     "name": "Snippets",
     "description": "An extension for custom coding snippets",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-snippets-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-snippets-extension/master/preview.webp",
-    "os": ["*"]
+    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-snippets-extension/master/preview.webp"
   }
 ]
