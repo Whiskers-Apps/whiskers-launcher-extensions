@@ -19,12 +19,5 @@
     "description": "An extension for Whiskers Launcher to open bookmarks or groups of bookmarks",
     "repo": "https://github.com/lighttigerXIV/whiskers-launcher-bookmarks-extension",
     "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-bookmarks-extension/master/preview.webp"
-  },
-  {
-    "id": "lighttigerxiv/snippets",
-    "name": "Snippets",
-    "description": "An extension for custom coding snippets",
-    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-snippets-extension",
-    "preview": "https://raw.githubusercontent.com/lighttigerXIV/whiskers-launcher-snippets-extension/master/preview.webp"
   }
 ]
