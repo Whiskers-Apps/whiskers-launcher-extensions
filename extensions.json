@@ -1,5 +1,12 @@
 [
   {
+    "id": "lighttigerxiv/whiskers-palette",
+    "name": "Whiskers Palette",
+    "description": "An extension to get the whiskers color scheme palette",
+    "repo": "https://github.com/lighttigerXIV/whiskers-launcher-emoji-extension",
+    "repo": "https://github.com/Whiskers-Apps/whiskers-launcher-whiskers-palette-extension.git"
+  },
+  {
     "id": "lighttigerxiv/emojis",
     "name": "Emojis",
     "description": "An extension for whiskers launcher to get emojis ",
