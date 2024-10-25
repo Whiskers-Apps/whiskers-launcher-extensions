@@ -1,5 +1,12 @@
 [
   {
+    "id": "whiskers-apps/clipboard",
+    "name": "Clipboard",
+    "description": "Quickly copy your favourite text and images to the clipboard",
+    "repo": "https://github.com/Whiskers-Apps/wl-clipboard-extension.git",
+    "preview": "https://raw.githubusercontent.com/Whiskers-Apps/wl-clipboard-extension/master/preview.webp"
+  },
+  {
     "id": "lighttigerxiv/whiskers-palette",
     "name": "Whiskers Palette",
     "description": "An extension to get the whiskers color scheme palette",
